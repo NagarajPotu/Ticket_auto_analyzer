@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+menv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
+# Ignore other large or unnecessary files
+*.log
+*.sqlite3
