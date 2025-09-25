@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+torch
+transformers
+datasets
+fastapi
+uvicorn
+joblib

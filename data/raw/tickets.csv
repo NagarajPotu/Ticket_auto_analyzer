@@ -1,0 +1,51 @@
+Ticket_ID,Subject,Description,Category,Priority,Timestamp
+1,Login issue,User unable to login to the system,Technical Issue,High,2025-09-25 09:15:00
+2,Invoice discrepancy,Invoice amount does not match the order,Billing Inquiry,Medium,2025-09-24 14:30:00
+3,Feature request,Please add dark mode to the app,Feature Request,Low,2025-09-20 11:00:00
+4,Password reset,User forgot password and cannot access account,Account Management,High,2025-09-23 16:45:00
+5,App crash,Application crashes when opening settings,Bug Report,High,2025-09-22 10:10:00
+6,Request VPN access,Need VPN access for remote work,Technical Issue,Medium,2025-09-21 09:50:00
+7,Refund request,Customer requests refund for incorrect billing,Billing Inquiry,High,2025-09-19 13:20:00
+8,Profile update,User cannot update profile details,Account Management,Medium,2025-09-18 15:00:00
+9,Add export feature,Request to export reports to PDF,Feature Request,Low,2025-09-17 10:25:00
+10,Crash on login,App crashes immediately after login,Bug Report,High,2025-09-16 08:45:00
+11,Slow performance,App is very slow on start,Technical Issue,Medium,2025-09-15 09:30:00
+12,Billing error,Customer charged twice for subscription,Billing Inquiry,High,2025-09-14 14:15:00
+13,Add notification feature,Users request push notifications,Feature Request,Low,2025-09-13 10:10:00
+14,Update email,User wants to change email address,Account Management,Medium,2025-09-12 11:45:00
+15,Screen freeze,Application freezes after login,Bug Report,High,2025-09-11 08:55:00
+16,Access denied,User cannot access project folder,Technical Issue,High,2025-09-10 09:05:00
+17,Incorrect invoice,Invoice missing items,Billing Inquiry,Medium,2025-09-09 12:30:00
+18,Export to CSV,Request to export dashboard data,Feature Request,Low,2025-09-08 10:20:00
+19,Password locked,User account locked after failed attempts,Account Management,High,2025-09-07 15:10:00
+20,Unexpected logout,App logs out automatically,Bug Report,Medium,2025-09-06 09:50:00
+21,VPN not connecting,VPN connection fails,Technical Issue,High,2025-09-05 08:45:00
+22,Refund not processed,Payment refund delayed,Billing Inquiry,High,2025-09-04 14:00:00
+23,New report format,Request to add new report layout,Feature Request,Low,2025-09-03 11:15:00
+24,Account deactivated,User account deactivated unexpectedly,Account Management,High,2025-09-02 16:20:00
+25,Crash on submit,App crashes when submitting form,Bug Report,High,2025-09-01 09:35:00
+26,Email issues,User not receiving notifications,Technical Issue,Medium,2025-08-31 10:40:00
+27,Billing clarification,Customer needs clarification on charges,Billing Inquiry,Medium,2025-08-30 13:50:00
+28,Add filtering,Request to filter reports by date,Feature Request,Low,2025-08-29 09:25:00
+29,Profile locked,User cannot edit profile,Account Management,High,2025-08-28 14:10:00
+30,App crash on upload,App crashes when uploading files,Bug Report,High,2025-08-27 11:05:00
+31,Connection error,App cannot connect to server,Technical Issue,High,2025-08-26 08:30:00
+32,Refund policy,Customer confused about refund rules,Billing Inquiry,Medium,2025-08-25 12:40:00
+33,Add search bar,Request to add search functionality,Feature Request,Low,2025-08-24 09:15:00
+34,Change password,User wants to reset password,Account Management,Medium,2025-08-23 10:50:00
+35,App freeze,App freezes on settings page,Bug Report,High,2025-08-22 08:20:00
+36,Server error,Internal server error on request,Technical Issue,High,2025-08-21 09:45:00
+37,Billing mismatch,Invoice does not match order,Billing Inquiry,Medium,2025-08-20 14:30:00
+38,Add dashboard,Request to add analytics dashboard,Feature Request,Low,2025-08-19 10:05:00
+39,Account recovery,User cannot recover account,Account Management,High,2025-08-18 15:25:00
+40,Crash on report,App crashes when generating report,Bug Report,High,2025-08-17 09:10:00
+41,Login slow,Login takes too long,Technical Issue,Medium,2025-08-16 08:55:00
+42,Payment issue,Customer payment not going through,Billing Inquiry,High,2025-08-15 12:15:00
+43,Add chart export,Request to export charts as images,Feature Request,Low,2025-08-14 10:30:00
+44,Profile missing info,User profile missing fields,Account Management,Medium,2025-08-13 14:40:00
+45,Crash on dashboard,App crashes on dashboard load,Bug Report,High,2025-08-12 09:25:00
+46,Error 500,Server returns 500 error,Technical Issue,High,2025-08-11 08:40:00
+47,Billing refund,Refund for canceled subscription,Billing Inquiry,Medium,2025-08-10 13:55:00
+48,Add notifications,Request to add email notifications,Feature Request,Low,2025-08-09 10:20:00
+49,Account locked,User account locked due to suspicious activity,Account Management,High,2025-08-08 15:05:00
+50,Crash on settings,App crashes when changing settings,Bug Report,High,2025-08-07 09:00:00
