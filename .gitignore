@@ -1,12 +1,17 @@
-# Ignore Python virtual environments
+# Ignore virtual environment
 menv/
+venv/
+.env/
+
+# Ignore Python cache
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
-.env
-.DS_Store
 
-# Ignore other large or unnecessary files
-*.log
-*.sqlite3
+# Ignore large model files
+*.dll
+*.lib
+*.so
+*.pkl
+*.pt
+*.h5
