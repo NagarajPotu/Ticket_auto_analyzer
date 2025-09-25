@@ -1,17 +1,40 @@
-# Ignore virtual environment
+# Python virtual environments
 menv/
 venv/
 .env/
 
-# Ignore Python cache
+# Byte-compiled / cache files
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
-# Ignore large model files
-*.dll
-*.lib
-*.so
-*.pkl
-*.pt
+# Logs & local databases
+*.log
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Model / dataset cache
 *.h5
+*.ckpt
+*.pt
+*.pth
+*.joblib
+*.pickle
+*.pkl
+
+# Large data folders
+data/raw/
+data/interim/
+data/processed/
+outputs/
